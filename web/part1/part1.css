@@ -34,13 +34,12 @@
     margin: 1%;
 }
 
-.bg-blue{background-color: rgb(60,138,228)}
-.bg-yellow{background-color: rgb(231,187,93)}
-.bg-green{background-color: rgb(93,231,190)}
-.bg-pink{background-color: rgb(231,93,127)}
-.bg-silver{background-color: silver}
+.bgc-blue{background-color: rgb(60,138,228)}
+.bgc-yellow{background-color: rgb(231,187,93)}
+.bgc-green{background-color: rgb(93,231,190)}
+.bgc-pink{background-color: rgb(231,93,127)}
+.bgc-silver{background-color: silver}
 
-.third-article{}
 @media screen and (min-width: 576px){
 
     .articles-container{
